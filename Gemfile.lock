@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ukrainian_id_number (0.1.0)
+    ukrainian_id_number (1.0.0)
 
 GEM
   remote: https://rubygems.org/
