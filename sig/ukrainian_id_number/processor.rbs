@@ -1,0 +1,5 @@
+module UkrainianIdNumber
+  class Processor
+    @id_number: Numeric
+  end
+end
