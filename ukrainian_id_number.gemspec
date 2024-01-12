@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Yaroslav Nychka"]
   spec.email = ["Yaroslav Nychka"]
 
-  spec.summary = "Get useful information from ukrainian id number"
-  spec.description = "Ukrainian ID number or taxpayer 10-digit number"
+  spec.summary = "Get birthday of Ukrainian taxpayer by 10-digit tax number"
+  spec.description = "Get birthday of Ukrainian taxpayer by 10-digit tax number"
   spec.homepage = "https://github.com/ynychka/ukrainian_id_number"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/ynychka/ukrainian_id_number"
-  spec.metadata["changelog_uri"] = "https://github.com/ynychka/ukrainian_id_number/CHANGELOG.md"
+  spec.metadata["changelog_uri"] = "https://github.com/ynychka/ukrainian_id_number/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
